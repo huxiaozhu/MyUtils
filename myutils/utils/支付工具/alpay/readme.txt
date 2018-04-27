@@ -1,0 +1,3 @@
+1.将支付宝支持的Jar包导入lib
+2.配置AndroidManifest文件
+3.调用MyAliPay工具类

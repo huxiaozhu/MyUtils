@@ -1,0 +1,6 @@
+private void setLight(Activity context, int brightness) {
+        //ÁÁ¶ÈÎª0-255
+        WindowManager.LayoutParams lp = context.getWindow().getAttributes();
+        lp.screenBrightness = Float.valueOf(brightness) * (1f / 255f);
+        context.getWindow().setAttributes(lp);
+    }

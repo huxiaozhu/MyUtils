@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--设置最底层的图层，即背景。-->
+    <!--layer-list是堆叠图层-->
+    <item>
+        <bitmap android:src="@drawable/splash" />
+    </item>
+</layer-list>

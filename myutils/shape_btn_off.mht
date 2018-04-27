@@ -1,0 +1,244 @@
+Date: Tue, 30 Aug 2016 09:57:30 +0800
+Message-ID: <00011204$5df09240$ce0f7d0e$EverNote>
+MIME-Version: 1.0
+Content-Type: text/html; 
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Evernote® v6.02.4.3244
+
+<html>
+<head>
+  <title>Evernote Export</title>
+  <basefont face=3D"=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91" size=3D"2" />
+  <meta http-equiv=3D"Content-Type" =
+content=3D"text/html;charset=3Dutf-8" />
+  <meta name=3D"exporter-version" content=3D"Evernote Windows/303244 =
+(zh-CN, DDL); Windows/6.1.7601 Service Pack 1 (Win64);"/>
+  <style>
+    body, td {
+      font-family: =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91;
+      font-size: 10pt;
+    }
+  </style>
+</head>
+<body>
+<a name=3D"469"/>
+
+<div>=0A<span><div><font face=3D"=E5=AE=8B=E4=BD=93"><span =
+style=3D"font-size: 24px; line-height: =
+34px;">shape_btn_off.xml</span></font></div><div><span =
+style=3D"font-size: 18pt;"><span style=3D"font-family: =
+=E5=AE=8B=E4=BD=93;">&lt;<span =
+style=3D"color:#000080;font-weight:bold;">shape=C2=A0</span><span =
+style=3D"color:#0000ff;font-weight:bold;">xmlns:</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;http://schemas.android.co=
+m/apk/res/android&quot;</span></span></span></div><div =
+style=3D"background-color:#ffffff;color:#000000;font-family:'=E5=AE=8B=E4=
+=BD=93';font-size:18.0pt;"><span =
+style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:shape=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;rectangle&quot;</span>&gt=
+;<br/>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">corners<br/></span><span =
+style=3D"color:#000080;font-weight:bold;">=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:radius=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;4dp&quot;<br/></span><spa=
+n style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:bottomLeftRadius=3D</span><spa=
+n =
+style=3D"color:#008000;font-weight:bold;">&quot;4dp&quot;<br/></span><spa=
+n style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:topRightRadius=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;0dp&quot;<br/></span><spa=
+n style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:bottomRightRadius=3D</span><sp=
+an =
+style=3D"color:#008000;font-weight:bold;">&quot;0dp&quot;=C2=A0</span>/&g=
+t;<br/>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">stroke=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:color=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@color/colorAccent&quot;<=
+br/></span><span style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0 =
+=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:width=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;1dp&quot;</span>/&gt;<br/=
+>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">solid=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:color=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@color/colorBai&quot;=C2=A0=
+</span>/&gt;</div><div><span style=3D"font-size: 18pt;"><span =
+style=3D"font-family: =E5=AE=8B=E4=BD=93;">&lt;/<span =
+style=3D"color:#000080;font-weight:bold;">shape</span>&gt;</span></span><=
+/div><div><span style=3D"font-size: 18pt;"><span style=3D"font-family: =
+=E5=AE=8B=E4=BD=93;"><br/></span></span></div><div><hr/></div><div><font =
+face=3D"=E5=AE=8B=E4=BD=93"><span style=3D"font-size: =
+24px;">shape_btn_on.xml</span></font></div><div =
+style=3D"background-color:#ffffff;color:#000000;font-family:'=E5=AE=8B=E4=
+=BD=93';font-size:18.0pt;">&lt;<span =
+style=3D"color:#000080;font-weight:bold;">shape=C2=A0</span><span =
+style=3D"color:#0000ff;font-weight:bold;">xmlns:</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;http://schemas.android.co=
+m/apk/res/android&quot;<br/></span><span =
+style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:shape=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;rectangle&quot;</span>&gt=
+;<br/>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">corners<br/></span><span =
+style=3D"color:#000080;font-weight:bold;">=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:radius=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;4dp&quot;<br/></span><spa=
+n style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:bottomLeftRadius=3D</span><spa=
+n =
+style=3D"color:#008000;font-weight:bold;">&quot;4dp&quot;<br/></span><spa=
+n style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:topRightRadius=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;0dp&quot;<br/></span><spa=
+n style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:bottomRightRadius=3D</span><sp=
+an =
+style=3D"color:#008000;font-weight:bold;">&quot;0dp&quot;=C2=A0</span>/&g=
+t;<br/>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">stroke=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:color=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@color/colorAccent&quot;<=
+br/></span><span style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0 =
+=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:width=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;1dp&quot;</span>/&gt;<br/=
+>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">solid=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:color=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@color/colorAccent&quot;=C2=
+=A0</span>/&gt;</div><div><span style=3D"font-size: 18pt;"><span =
+style=3D"font-family: =E5=AE=8B=E4=BD=93;">&lt;/<span =
+style=3D"color:#000080;font-weight:bold;">shape</span>&gt;</span></span><=
+/div><div><span style=3D"font-size: 18pt;"><span style=3D"font-family: =
+=E5=AE=8B=E4=BD=93;"><br/></span></span></div><div><hr/></div><div>=E7=82=
+=B9=E5=87=BB=E6=9C=89=E8=BE=B9=E6=A1=86 =
+=E5=B9=B6=E6=8C=89=E9=92=AE=E5=8F=98=E8=89=B2</div><div><span =
+style=3D"font-size: 24px;"><span style=3D"color: rgb(255, 0, 0);">=C2=A0 =
+=C2=A0 selector_bg_home_tab_btn</span></span></div><div =
+style=3D"background-color:#ffffff;color:#000000;font-family:'=E5=AE=8B=E4=
+=BD=93';font-size:18.0pt;">&lt;<span =
+style=3D"color:#000080;font-weight:bold;">selector=C2=A0</span><span =
+style=3D"color:#0000ff;font-weight:bold;">xmlns:</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;http://schemas.android.co=
+m/apk/res/android&quot;</span>&gt;<br/><br/>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">item=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:drawable=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@drawable/shape_btn_off&q=
+uot;=C2=A0</span>/&gt;<br/>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">item=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:drawable=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@drawable/shape_btn_on&qu=
+ot;=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:state_pressed=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;true&quot;=C2=A0</span>/&=
+gt;<br/>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">item=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:drawable=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@drawable/shape_btn_on&qu=
+ot;=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:state_checked=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;true&quot;=C2=A0</span>/&=
+gt;<br/>=0A=C2=A0 =C2=A0 &lt;<span =
+style=3D"color:#000080;font-weight:bold;">item=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:drawable=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@drawable/shape_btn_on&qu=
+ot;=C2=A0</span><span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:state_focused=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;true&quot;=C2=A0</span>/&=
+gt;<br/><br/></div><div><span style=3D"font-size: 18pt;"><span =
+style=3D"font-family: =E5=AE=8B=E4=BD=93;">&lt;/<span =
+style=3D"color:#000080;font-weight:bold;">selector</span>&gt;</span></spa=
+n></div><div><span style=3D"font-size: 18pt;"><span =
+style=3D"font-family: =
+=E5=AE=8B=E4=BD=93;"><br/></span></span></div><div><hr/></div><div =
+style=3D"background-color:#ffffff;color:#000000;font-family:'=E5=AE=8B=E4=
+=BD=93';font-size:18.0pt;">&lt;<span =
+style=3D"color:#000080;background-color:#e4e4ff;font-weight:bold;">RadioB=
+utton</span><span =
+style=3D"color:#000080;font-weight:bold;"><br/></span><span =
+style=3D"color:#000080;font-weight:bold;">=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:id=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@+id/hone_title_gb_dynami=
+c&quot;<br/></span><span =
+style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:layout_width=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;0dp&quot;<br/></span><spa=
+n style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:layout_height=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;match_parent&quot;<br/></=
+span><span style=3D"color:#008000;font-weight:bold;">=C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:button=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;@null&quot;<br/></span><s=
+pan style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:gravity=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;center&quot;<br/></span><=
+span style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0</span> =
+<span style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:layout_weight=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;1&quot;<br/></span><span =
+style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:text=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;=E5=8A=A8=E6=80=81&quot;<=
+br/></span><span style=3D"color:#008000;font-weight:bold;">=C2=A0 =
+=C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:checked=3D</span><span =
+style=3D"color:#008000;font-weight:bold;">&quot;true&quot;<br/></span><sp=
+an style=3D"color:#008000;font-weight:bold;">=C2=A0 =C2=A0</span> <span =
+style=3D"color:#660e7a;font-weight:bold;">android</span><span =
+style=3D"color:#0000ff;font-weight:bold;">:background=3D</span><span =
+style=3D"color: rgb(0, 128, 0);"><b>&quot;@drawable/<span =
+style=3D"color: rgb(255, 0, =
+0);">selector_bg_home_tab_btn</span>&quot;</b></span>/&gt;<br/>=0A&lt;<sp=
+an =
+style=3D"color:#000080;background-color:#e4e4ff;font-weight:bold;">RadioB=
+utton</span></div></span>=0A</div></body></html>
+ 
